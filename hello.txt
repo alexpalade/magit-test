@@ -1,3 +1,7 @@
 dummy text again.
 
+one
+
 bad line.
+
+two
